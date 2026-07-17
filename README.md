@@ -1,4 +1,4 @@
-# GPTSTASH
+# ChatSync V1.0
 
 A sleek Manifest V3 Chrome Extension built specifically for ChatGPT. It extracts, filters, and structures active conversation histories into context-rich clipboard payloads. Features a clean terminal-style dark mode inspired by Tally and instant raw chat exports. 100% private and processed locally.
 
